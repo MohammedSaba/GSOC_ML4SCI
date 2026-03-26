@@ -294,9 +294,9 @@ Early runs (before augmentation) showed severe overfitting:
 
 To load:
 ```python
-from model import DeepLenseClassifier
 model = DeepLenseClassifier(num_classes=3, dropout=0.2)
 model.load_state_dict(torch.load('best_model_task1_v3.pth', map_location='cpu'))
+model.half()  # weights are stored in float16
 model.eval()
 ```
 
