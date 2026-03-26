@@ -331,16 +331,16 @@ The model achieves strong discrimination between lensed and non-lensed galaxies 
 
 To load:
 ```python
-from model import LensClassifier
 model = LensClassifier()
 model.load_state_dict(torch.load('best_lens_model.pth', map_location='cpu'))
+model.half()  # weights are stored in float16
 model.eval()
 
 # Inference
 with torch.no_grad():
-    logit = model(image_tensor)          # (1, 1)
-    prob  = torch.sigmoid(logit).item()  # lens probability
-    pred  = int(prob > 0.5)              # 1=lens, 0=non-lens
+    logit = model(image_tensor.half())  # input must also be float16
+    prob  = torch.sigmoid(logit).item()
+    pred  = int(prob > 0.5)
 ```
 
 ---
