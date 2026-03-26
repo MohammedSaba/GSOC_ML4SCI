@@ -36,7 +36,7 @@ Classify gravitational lensing telescope images into three physical categories:
 | Validation | 7,500 images (2,500 per class — perfectly balanced) |
 | Split | 90:10 train/val |
 | Normalisation | Min-max to `[0.0, 1.0]` — applied by ML4Sci |
-| Mean pixel value | 0.072 — very dark images (mostly black sky) |
+| Mean pixel value | 0.062 — very dark images (mostly black sky) |
 
 **Key observation from EDA:** All three classes share the fundamental Einstein ring shape. Differences are extremely subtle — subhalo creates a localised brightness anomaly in the ring; vortex creates a spiral twist pattern. Even human visual inspection struggles to distinguish sphere from no substructure consistently. This confirmed the model must capture local brightness anomalies, ring completeness, and symmetry, not just global shape.
 
