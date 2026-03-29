@@ -37,3 +37,24 @@ Each task directory includes:
 - The notebooks reflect the submitted evaluation work for DeepLense.
 
 ## File Structure
+
+```
+Repo/
+├── Common_Task_1/
+│   ├── best_model_weight/
+│   │   └── best_model_task1_v3.pth
+│   ├── notebook/
+│   │   └── deeplense_common_task1_FINAL.ipynb
+│   └── Readme.md
+│
+├── Task_V/
+│   ├── best_model_weight/
+│   │   └── best_model_224_from_run2_deeplense.pth
+│   ├── notebook/
+│   │   ├── deeplense_task2_FINAL.ipynb
+│   │   └── gsoc_deeplense_task2_FINAL.ipynb
+│   └── Readme.md
+│
+└── README.md   ← main repo README (important)
+```
+
