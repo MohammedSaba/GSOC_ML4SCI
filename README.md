@@ -27,7 +27,7 @@ Each task directory includes:
 
 ## Quick Navigation
 
-- For the multi-class classification task, start with [Common_Task_1/Readme.md]((https://github.com/MohammedSaba/GSOC_ML4SCI/edit/main/Common_Task_1/Readme.md))
+- For the multi-class classification task, start with [Common_Task_1/Readme.md](https://github.com/MohammedSaba/GSOC_ML4SCI/blob/main/Common_Task_1/Readme.md)
 - For the binary lens-finding task, start with [Task_V/Readme.md]((https://github.com/MohammedSaba/GSOC_ML4SCI/blob/main/Task_V/Readme.md))
 
 ## Notes
