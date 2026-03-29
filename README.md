@@ -6,7 +6,7 @@ Each task has its **own notebook, trained weights, and detailed README**, so thi
 
 ## Repository Overview
 
-- [Common_Task_1](/Users/mohammedsaba/Documents/New project/repo/Common_Task_1)
+- [Common_Task_1](https://github.com/MohammedSaba/GSOC_ML4SCI/tree/main/Common_Task_1)
   Common Test I: multi-class classification of simulated gravitational lensing images into `no`, `sphere`, and `vort`.
 
 - [Task_V](https://github.com/MohammedSaba/GSOC_ML4SCI/tree/main/Task_V)
