@@ -6,10 +6,10 @@ Each task has its **own notebook, trained weights, and detailed README**, so thi
 
 ## Repository Overview
 
-- [Common_Task_1](/Users/mohammedsaba/Documents/New project/repo/Common_Task_1)
+- [Common_Task_1](https://github.com/MohammedSaba/GSOC_ML4SCI/edit/main/Common_Task_1)
   Common Test I: multi-class classification of simulated gravitational lensing images into `no`, `sphere`, and `vort`.
 
-- [Task_V](/Users/mohammedsaba/Documents/New project/repo/Task_V)
+- [Task_V](https://github.com/MohammedSaba/GSOC_ML4SCI/edit/main/Task_V)
   Specific Test V: binary lens finding under strong class imbalance using multi-channel observational images.
 
 ## What Each Task Folder Contains
@@ -28,7 +28,7 @@ Each task directory includes:
 ## Quick Navigation
 
 - For the multi-class classification task, start with [Common_Task_1/Readme.md]((https://github.com/MohammedSaba/GSOC_ML4SCI/edit/main/Common_Task_1/Readme.md))
-- For the binary lens-finding task, start with [Task_V/Readme.md](/Users/mohammedsaba/Documents/New project/repo/Task_V/Readme.md)
+- For the binary lens-finding task, start with [Task_V/Readme.md]((https://github.com/MohammedSaba/GSOC_ML4SCI/blob/main/Task_V/Readme.md))
 
 ## Notes
 
