@@ -35,3 +35,5 @@ Each task directory includes:
 - This repository is structured to avoid duplicating explanations across files.
 - The detailed technical discussion is kept inside the individual task READMEs.
 - The notebooks reflect the submitted evaluation work for DeepLense.
+
+## File Structure
