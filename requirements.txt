@@ -1,0 +1,25 @@
+# DeepLense — GSoC 2026 Evaluation Tasks
+# Common Test I (Multi-Class Classification) + Specific Test V (Lens Finding)
+#
+# Python 3.9+
+# Tested on: Apple M1 (MPS), Kaggle T4 (CUDA), Google Colab T4 (CUDA)
+#
+# Install:
+#   pip install -r requirements.txt
+
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Evaluation metrics
+scikit-learn>=1.3.0
+
+# Notebook support (optional — only needed if running .ipynb locally)
+jupyter>=1.0.0
+ipykernel>=6.0.0
