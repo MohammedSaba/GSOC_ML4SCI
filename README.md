@@ -1,4 +1,4 @@
-DeepLense — GSoC 2026 Evaluation Submission
+# DeepLense — GSoC 2026 Evaluation Submission
 
 This repository contains my evaluation work for the **ML4SCI DeepLense** project, organized into two independent tasks.
 
@@ -27,7 +27,7 @@ Each task directory includes:
 
 ## Quick Navigation
 
-- For the multi-class classification task, start with [Common_Task_1/Readme.md](/Users/mohammedsaba/Documents/New project/repo/Common_Task_1/Readme.md)
+- For the multi-class classification task, start with [Common_Task_1/Readme.md]((https://github.com/MohammedSaba/GSOC_ML4SCI/edit/main/Common_Task_1/Readme.md))
 - For the binary lens-finding task, start with [Task_V/Readme.md](/Users/mohammedsaba/Documents/New project/repo/Task_V/Readme.md)
 
 ## Notes
