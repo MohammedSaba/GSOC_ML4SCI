@@ -315,10 +315,11 @@ Update `DATA_DIR` in the notebook to point to your local dataset path.
 ## File Structure
 
 ```
-Task1_CommonTest/
-├── deeplense_task_1_multiTask.ipynb   ← main notebook with all outputs
-├── deeplense_task_1_multiTask.pdf     ← PDF export with rendered outputs
-├── best_model_task1_v3.pth            ← best model weights
-├── roc_curves_task1.png               ← saved ROC curve plot
-└── README.md                          ← this file
+Common_Task_1/
+├── model_best_weights/
+│   └── best_model_task1_v3.pth
+├── notebook/
+│   ├── deeplense_Cmmon_task1_FINAL.ipynb
+│   
+└── Readme.md                       
 ```
