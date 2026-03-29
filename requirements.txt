@@ -1,11 +1,11 @@
-# DeepLense — GSoC 2026 Evaluation Tasks
-# Common Test I (Multi-Class Classification) + Specific Test V (Lens Finding)
-#
-# Python 3.9+
-# Tested on: Apple M1 (MPS), Kaggle T4 (CUDA), Google Colab T4 (CUDA)
-#
+ DeepLense — GSoC 2026 Evaluation Tasks
+ Common Test I (Multi-Class Classification) + Specific Test V (Lens Finding)
+
+ Python 3.9+
+ Tested on: Apple M1 (MPS), Kaggle T4 (CUDA), Google Colab T4 (CUDA)
+
 # Install:
-#   pip install -r requirements.txt
+  pip install -r requirements.txt
 
 # Core deep learning
 torch>=2.0.0
