@@ -39,7 +39,7 @@ Each task directory includes:
 ## File Structure
 
 ```
-Repo/
+GSOC_ML4SCI/
 ├── Common_Task_1/
 │   ├── best_model_weight/
 │   │   └── best_model_task1_v3.pth
