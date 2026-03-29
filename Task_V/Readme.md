@@ -356,8 +356,10 @@ Update `DATASET_ROOT` in the notebook to point to your local dataset path.
 ## File Structure
 
 ```
-Task5_LensFinding/
-├── deeplense_task_2_lens_testing.ipynb              ← main notebook with all outputs
-├── best_model_224_from_run2_deeplense.pth           ← best model weights (Run 2)
-└── README.md                                         ← this file
+Task_V/
+├── best_model_weight/
+│   └── best_model_224_from_run2_deeplense.pth
+├── notebook/
+│   └── gsoc_deeplense_task2_FINAL.ipynb
+└── Readme.md                                        
 ```
